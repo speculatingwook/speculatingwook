@@ -36,7 +36,7 @@
 [Nyam App-Play Store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam)
 [Nyam App-App Store](https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109)
 
-- <h3 align="center">•••</h3>
+<h3 align="center">•••</h3>
 
 [![Dev Blog Badge](http://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white)](https://half-develop-er.tistory.com/)
 [![Email Badge](http://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:bwook9908@gmail.com)
