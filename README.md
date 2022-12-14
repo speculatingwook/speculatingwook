@@ -1,16 +1,25 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Speculating%Wook&fontSize=50)
 
-<!--
-**speculatingwook/speculatingwook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+`
 
-Here are some ideas to get you started:
+### See My Portpolio! 🥰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">•••</h3>
+
+### 🛠 Tech Stack 🛠
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+
+
+### education
+`Konkuk University` | `smart vehicle Engineering`
+
+`Live with - FE developer`
+
+<h3 align="center">•••</h3>
+
+[![Dev Blog Badge](http://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white)](https://half-develop-er.tistory.com/)
+[![Email Badge](http://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:bwook9908@gmail.com)
+
+</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
