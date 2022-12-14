@@ -8,13 +8,24 @@
 <h3 align="center">•••</h3>
 
 ### 🛠 Tech Stack 🛠
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+#### Frameworks,Platforms
+<p>
 
+[//]: # (  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>)
+
+[//]: # ( <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>)
+   <img src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=nextjs&logoColor=white"/>
+</p>
+
+#### Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### education
 `Konkuk University` | `smart vehicle Engineering`
 
-`Live with - FE developer`
+
+2022.6 ~ LiveWith_Team (NextJs Frontend) [Team's CMS page](https://cms.livewithtogether.com/authentication/login?returnUrl=%2F)
 
 <h3 align="center">•••</h3>
 
