@@ -33,9 +33,8 @@
 
 2022.6 ~ LiveWith_Team (NextJs Frontend) [Team's CMS page](https://cms.livewithtogether.com/authentication/login?returnUrl=%2F)
 
-- Play Store: https://play.google.com/store/apps/details?id=com.livewithtogether.nyam
-
-- App Store: https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109
+[Nyam App-Play Store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam)
+[Nyam App-App Store](https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109)
 
 - <h3 align="center">•••</h3>
 
