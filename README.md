@@ -1,12 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=200&section=header&text=Speculating%Wook&fontSize=50&fontColor=2E8B57)
 
-<div>
+<div align="center">
 
 
 <h3 align="center">
- See My Portpolio! 🥰
+ See My Portpolio! 🥰 
+</h3>
 
-[![Resume Badge](http://img.shields.io/badge/-Portpolio-green?style=flat&logo=notion&logoColor=white)](https://outlu.notion.site/portfolio-b66d2b6d15544a34a75028a36f84f3c6)</h3>
+[![Resume Badge](http://img.shields.io/badge/-Portpolio-green?style=flat&logo=notion&logoColor=white)](https://outlu.notion.site/portfolio-b66d2b6d15544a34a75028a36f84f3c6)
 
 
 ### 🛠 Tech Stack 🛠
@@ -34,6 +35,10 @@
 #### Servers
 
 
+<div>
+
+</div>
+
 
 #### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -45,14 +50,14 @@
 
 
 
-##### 2022.8 ~ LiveWith_Team (NextJs Frontend) 
-- [Team's CMS page](https://cms.livewithtogether.com/authentication/login?returnUrl=%2F)
-- [Nyam App-Play Store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam)
-- [Nyam App-App Store](https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109)
+##### 2022.8 ~ LiveWith_Team (NextJs CMS Frontend) 
+[Team's CMS page](https://cms.livewithtogether.com/authentication/login?returnUrl=%2F)  
+[Nyam App-Play Store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam)   
+[Nyam App-App Store](https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109)
 
 
 ##### 2023.01 ~ Greendar (Java SpringBoot Backend) 
-- [Team's github repository](https://github.com/Team-Greendar/GreendarServer)
+[Team's github repository](https://github.com/Team-Greendar/GreendarServer)
 
 
 
@@ -60,5 +65,5 @@
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=200&section=footer)
-</div>
+</box>
 
