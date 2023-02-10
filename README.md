@@ -19,6 +19,7 @@
    <img src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=nextjs&logoColor=white"/>
 </p>
 
+
 #### Languages
 <p>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
@@ -29,15 +30,19 @@
 #### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+
 #### Servers
+
 
 
 #### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
 ### education
 `Konkuk University` | `smart vehicle Engineering`
+
 
 
 ##### 2022.8 ~ LiveWith_Team (NextJs Frontend) 
@@ -49,9 +54,7 @@
 ##### 2023.01 ~ Greendar (Java SpringBoot Backend) 
 - [Team's github repository](https://github.com/Team-Greendar/GreendarServer)
 
-<h3 align="center">[![Dev Blog Badge](http://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white)](https://half-develop-er.tistory.com/)
-[![Email Badge](http://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:bwook9908@gmail.com)
-</h3>
+<h3 align="center">[![Dev Blog Badge](http://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white)](https://half-develop-er.tistory.com/) [![Email Badge](http://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:bwook9908@gmail.com)</h3>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=200&section=footer)
