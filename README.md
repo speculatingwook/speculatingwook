@@ -2,6 +2,7 @@
 
 <div align="center">
 
+![Wook's GitHub stats](https://github-readme-stats.vercel.app/api?username=speculatingwook&show_icons=true&theme=vue-dark)
 
 <h3 align="center">
  See My Portpolio! 🥰 
