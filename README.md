@@ -35,9 +35,7 @@
 #### Servers
 
 
-<div>
 
-</div>
 
 
 #### Version Control
@@ -60,12 +58,10 @@
 [Team's github repository](https://github.com/Team-Greendar/GreendarServer)
 
 
-![snake gif](https://github.com/speculatingwook/speculatingwook/blob/output/github-contribution-grid-snake.svg)
-
 
 [![Dev Blog Badge](http://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white)](https://half-develop-er.tistory.com/) [![Email Badge](http://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:bwook9908@gmail.com)
 
-
+![snake gif](https://github.com/speculatingwook/speculatingwook/blob/output/github-contribution-grid-snake.svg)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=200&section=footer)
 </box>
 
