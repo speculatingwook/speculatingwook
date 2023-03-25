@@ -4,7 +4,7 @@
 
 ![Wook's GitHub stats](https://github-readme-stats.vercel.app/api?username=speculatingwook&show_icons=true&theme=vue-dark)
 
-
+-------
 
 <h3 align="center">
  See My Portpolio! 🥰 (not yet. preparing)
@@ -51,6 +51,7 @@
 `Konkuk University` | `smart vehicle Engineering`
 
 
+----------
 
 ### [2022.8 ~ current dev] LiveWith_Team (NextJs CMS Frontend) 
 
@@ -62,6 +63,8 @@
 [Mymura App-App Store](https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109)
 
 
+-----------
+
 ### [2023.01 ~2023.03] Greendar (Java SpringBoot Backend) 
 
 <img width="600" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://user-images.githubusercontent.com/105579811/227689492-67bb8854-6b48-4740-b951-50c2a21a7c85.jpeg">
@@ -70,7 +73,7 @@
 
 [Team's github repository](https://github.com/Team-Greendar/GreendarServer)
 
-
+-------
 
 [![Dev Blog Badge](http://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white)](https://half-develop-er.tistory.com/) [![Email Badge](http://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:bwook9908@gmail.com)
 
