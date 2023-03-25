@@ -51,7 +51,10 @@
 
 
 ##### 2022.8 ~ LiveWith_Team (NextJs CMS Frontend) 
-![시그니처 가로형 블랙](https://user-images.githubusercontent.com/105579811/227689153-0a218c23-cc31-420c-9b99-cafd12ff92d7.png)
+
+
+<img width="600" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://user-images.githubusercontent.com/105579811/227689153-0a218c23-cc31-420c-9b99-cafd12ff92d7.png">
+
 [Team's CMS page](https://cms.livewithtogether.com/authentication/login?returnUrl=%2F)  
 [Mymura App-Play Store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam)   
 [Mymura App-App Store](https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109)
