@@ -5,7 +5,7 @@
 ![Wook's GitHub stats](https://github-readme-stats.vercel.app/api?username=speculatingwook&show_icons=true&theme=vue-dark)
 
 <h3 align="center">
- See My Portpolio! 🥰 
+ See My Portpolio! 🥰 (not yet. preparing)
 </h3>
 
 [![Resume Badge](http://img.shields.io/badge/-Portpolio-green?style=flat&logo=notion&logoColor=white)](https://outlu.notion.site/portfolio-b66d2b6d15544a34a75028a36f84f3c6)
@@ -51,9 +51,10 @@
 
 
 ##### 2022.8 ~ LiveWith_Team (NextJs CMS Frontend) 
+![시그니처 가로형 블랙](https://user-images.githubusercontent.com/105579811/227689153-0a218c23-cc31-420c-9b99-cafd12ff92d7.png)
 [Team's CMS page](https://cms.livewithtogether.com/authentication/login?returnUrl=%2F)  
-[Nyam App-Play Store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam)   
-[Nyam App-App Store](https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109)
+[Mymura App-Play Store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam)   
+[Mymura App-App Store](https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109)
 
 
 ##### 2023.01 ~ Greendar (Java SpringBoot Backend) 
