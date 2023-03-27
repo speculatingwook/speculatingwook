@@ -56,7 +56,7 @@
 ### [2022.8 ~ current dev] LiveWith_Team (NextJs CMS Frontend) 
 
 
-<img width="600" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://user-images.githubusercontent.com/105579811/227689153-0a218c23-cc31-420c-9b99-cafd12ff92d7.png">
+<img width="400" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://user-images.githubusercontent.com/105579811/227689153-0a218c23-cc31-420c-9b99-cafd12ff92d7.png">
 
 [Team's CMS page](https://cms.livewithtogether.com/authentication/login?returnUrl=%2F)  
 [Mymura App-Play Store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam)   
@@ -67,7 +67,7 @@
 
 ### [2023.01 ~2023.03] Greendar (Java SpringBoot Backend) 
 
-<img width="600" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://user-images.githubusercontent.com/105579811/227689492-67bb8854-6b48-4740-b951-50c2a21a7c85.jpeg">
+<img width="400" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://user-images.githubusercontent.com/105579811/227689492-67bb8854-6b48-4740-b951-50c2a21a7c85.jpeg">
 
 [Team into video](https://www.youtube.com/watch?v=aUiaK_zgogw)
 
