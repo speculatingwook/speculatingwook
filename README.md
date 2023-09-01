@@ -10,7 +10,7 @@
  See My Portpolio! 🥰 (not yet. preparing)
 </h3>
 
-[![Resume Badge](http://img.shields.io/badge/-Portpolio-green?style=flat&logo=notion&logoColor=white)](https://outlu.notion.site/portfolio-b66d2b6d15544a34a75028a36f84f3c6)
+[![Resume Badge](http://img.shields.io/badge/-Portpolio-green?style=flat&logo=notion&logoColor=white)](https://outlu.notion.site/portfolio-b66d2b6d15544a34a75028a36f84f3c6?pvs=4)
 
 
 ### 🛠 Tech Stack 🛠
