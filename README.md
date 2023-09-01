@@ -16,36 +16,26 @@
 ### 🛠 Tech Stack 🛠
 
 #### Frameworks,Platforms
-<p>
+[![My Skills](https://skillicons.dev/icons?i=spring,nextjs)](https://skillicons.dev)<br>
 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-   <img src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=nextjs&logoColor=white"/>
-</p>
 
 
 #### Languages
-<p>
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> 
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)<br>
 
 
 #### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)<br>
 
 
-#### Servers
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+#### Infra
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,githubactions)](https://skillicons.dev)<br>
 
 
 
 
 #### Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)<br>
 
 ### education
 `Konkuk University` | `smart vehicle Engineering`
