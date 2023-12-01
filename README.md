@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=200&section=header&text=Speculating%Wook&fontSize=50&fontColor=2E8B57)
 
-<div align="center">
+<div>
 
 ![Wook's GitHub stats](https://github-readme-stats.vercel.app/api?username=speculatingwook&show_icons=true&theme=vue-dark)
 
@@ -8,9 +8,11 @@
 
 <h3 align="center">
  See My Portpolio! 🥰 (not yet. preparing)
+
 </h3>
 
 [![Resume Badge](http://img.shields.io/badge/-Portpolio-green?style=flat&logo=notion&logoColor=white)](https://outlu.notion.site/portfolio-b66d2b6d15544a34a75028a36f84f3c6?pvs=4)
+
 
 
 ### 🛠 Tech Stack 🛠
@@ -53,29 +55,31 @@
 #### [2022.8 ~ 2023.03] LiveWith_Team (NextJs CMS Frontend)
 
 ----------
-[Team's CMS page](https://cms.livewithtogether.com/authentication/login?returnUrl=%2F)  
-[Mymura App-Play Store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam)   
-[Mymura App-App Store](https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109)
+- [Team's CMS page](https://cms.livewithtogether.com/authentication/login?returnUrl=%2F)  
+- [Mymura App-Play Store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam)   
+- [Mymura App-App Store](https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109)
 -----------
 
 #### [2023.03 ~2023.05] EarthDefenseCorps (Java SpringBoot Backend)
 
 -------
-[Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
+- [Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
 
 -------
 
 #### [2023.01 ~2023.03] Greendar (Java SpringBoot Backend)
 
 -------
-[Team into video](https://www.youtube.com/watch?v=aUiaK_zgogw)
+- [Team into video](https://www.youtube.com/watch?v=aUiaK_zgogw)
 
-[Team's github repository](https://github.com/Team-Greendar/GreendarServer)
+- [Team's github repository](https://github.com/Team-Greendar/GreendarServer)
 
 
 -------
 #### [2023.11 ~ 2023.12] Gkog(Java Spring boot Backend)
 
+
+-----------
 
 ### products
 
