@@ -2,7 +2,13 @@
 
 <div>
 
+<div align="center">
+
 ![Wook's GitHub stats](https://github-readme-stats.vercel.app/api?username=speculatingwook&show_icons=true&theme=vue-dark)
+
+</div>
+
+
 
 -------
 
@@ -11,7 +17,13 @@
 
 </h3>
 
+<div align="center">
+
 [![Resume Badge](http://img.shields.io/badge/-Portpolio-green?style=flat&logo=notion&logoColor=white)](https://outlu.notion.site/portfolio-b66d2b6d15544a34a75028a36f84f3c6?pvs=4)
+
+</div>
+
+
 
 
 
@@ -50,11 +62,11 @@
 
 
 
-### Projects for fun & study
+## Projects for study & fun
+
 ----------
 #### [2022.8 ~ 2023.03] LiveWith_Team (NextJs CMS Frontend)
 
-----------
 - [Team's CMS page](https://cms.livewithtogether.com/authentication/login?returnUrl=%2F)  
 - [Mymura App-Play Store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam)   
 - [Mymura App-App Store](https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109)
@@ -62,14 +74,12 @@
 
 #### [2023.03 ~2023.05] EarthDefenseCorps (Java SpringBoot Backend)
 
--------
 - [Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
 
 -------
 
 #### [2023.01 ~2023.03] Greendar (Java SpringBoot Backend)
 
--------
 - [Team into video](https://www.youtube.com/watch?v=aUiaK_zgogw)
 
 - [Team's github repository](https://github.com/Team-Greendar/GreendarServer)
@@ -81,12 +91,12 @@
 
 -----------
 
-### products
+## products
+
+---------
 
 #### [2023.06 ~] ReFit (Java SpringBoot Backend & fastAPI & Flutter app)
 - currently on app store, google play store
-
-
 
 -------
 
