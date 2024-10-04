@@ -36,7 +36,7 @@
 
 
 #### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)<br>
 
 
 #### Infra
@@ -52,15 +52,16 @@
 
 
 ### Education
-`Konkuk University` | `smart vehicle Engineering`
+`Konkuk University` | `Smart Vehicle Engineering`
 
 ### Experiences
 - startup team MAIMURA - Frontend Developer
-- CA partners IT develop Internship - backend Developer
+- CA partners IT develop Internship - Backend Developer
 - GDSC(Google Developer Students club) Konkuk 1st core member - Server(Backend)
-- 
 
-
+### Awards
+- Top 100 in Google Developer Students Club Solution Challenge
+- Grand Prize in jocoding Generative AI Hackathon
 
 ## Projects for study & fun
 
@@ -72,31 +73,35 @@
 - [Mymura App-App Store](https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109)
 -----------
 
-#### [2023.03 ~2023.05] EarthDefenseCorps (Java SpringBoot Backend)
-
-- [Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
-
--------
-
 #### [2023.01 ~2023.03] Greendar (Java SpringBoot Backend)
 
 - [Team into video](https://www.youtube.com/watch?v=aUiaK_zgogw)
 
 - [Team's github repository](https://github.com/Team-Greendar/GreendarServer)
 
-
--------
-#### [2023.11 ~ 2023.12] Gkog(Java Spring boot Backend)
-
-
 -----------
 
-## products
+#### [2023.03 ~2023.05] EarthDefenseCorps (Java SpringBoot Backend)
+
+- [Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
+
+-------
+
+
+#### [2023.06 ~ 2024.02] ReFit (Java SpringBoot Backend & fastAPI AI & Flutter App)
+- This repository is private
+
+--------
+
+#### [2023.12 ~ 2023.02] GlowAlarm (Python FastAPI Backend & flutter App)
+- [Team's github repository](https://github.com/sound-light)
 
 ---------
+## products
 
-#### [2023.06 ~] ReFit (Java SpringBoot Backend & fastAPI & Flutter app)
-- currently on app store, google play store
+#### [2024.03 ~] Resona (Java & Kotlin SpringBoot Backend & Flutter app)
+- Currently Developing
+- This repository is private
 
 -------
 
