@@ -47,6 +47,7 @@
 - startup team MAIMURA - Frontend Developer
 - CA partners IT develop Internship - Backend Developer
 - GDSC(Google Developer Students club) Konkuk 1st core member - Server(Backend)
+- GDGOC(Google Developer Group On Campus) Konkuk 2nd member
 
 ### Awards
 - Top 100 in Google Developer Students Club Solution Challenge
@@ -57,14 +58,14 @@
 ----------
 #### [2022.8 ~ 2023.03] LiveWith_Team (NextJs CMS Frontend)
 
-- [Team's CMS page](https://cms.livewithtogether.com/authentication/login?returnUrl=%2F)  
-- [Mymura App-Play Store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam)   
-- [Mymura App-App Store](https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109)
+~~- [Team's CMS page](https://cms.livewithtogether.com/authentication/login?returnUrl=%2F)  ~~
+~~- [Mymura App-Play Store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam)~~   
+~~- [Mymura App-App Store](https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109)~~
 -----------
 
 #### [2023.01 ~2023.03] Greendar (Java SpringBoot Backend)
 
-- [Team into video](https://www.youtube.com/watch?v=aUiaK_zgogw)
+- [Team intro video](https://www.youtube.com/watch?v=aUiaK_zgogw)
 
 - [Team's github repository](https://github.com/Team-Greendar/GreendarServer)
 
@@ -83,6 +84,7 @@
 --------
 
 #### [2023.12 ~ 2023.02] GlowAlarm (Python FastAPI Backend & flutter App)
+- [Team's intro video](https://www.youtube.com/watch?v=2ticysXQrvU)
 - [Team's github repository](https://github.com/sound-light)
 
 ---------
