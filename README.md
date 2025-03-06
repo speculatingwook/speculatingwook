@@ -57,9 +57,9 @@
 
 ----------
 #### [2022.8 ~ 2023.03] LiveWith_Team (NextJs CMS Frontend)
-
+depretecated
 ~~- [Team's CMS page](https://cms.livewithtogether.com/authentication/login?returnUrl=%2F)  ~~
-~~- [Mymura App-Play Store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam)~~   
+~~ - [Mymura App-Play Store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam)~~   
 ~~- [Mymura App-App Store](https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109)~~
 -----------
 
