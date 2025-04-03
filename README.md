@@ -54,8 +54,6 @@
 - Top 100 in Google Developer Students Club Solution Challenge
 - Grand Prize in jocoding Generative AI Hackathon
 
----
-<br/>
 <br/>
 
 ## 🧪 Products
@@ -65,9 +63,7 @@
 > Ongoing long-term project with no fixed deadline, designed for continuous development and feature expansion.
 - [SNS - Resona API Server Repository](https://github.com/Team-SynApps/resona-api-server)
 
----
 
-<br/>
 <br/>
 
 ## 🚀 Projects
