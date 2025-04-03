@@ -13,7 +13,7 @@
 ------
 
 
-### 🛠 Tech Stack 🛠
+## 🛠 Tech Stack 🛠
 
 #### Frameworks,Platforms
 [![My Skills](https://skillicons.dev/icons?i=spring,nextjs)](https://skillicons.dev)<br>
@@ -40,22 +40,22 @@
 </div>
 
 
-### Education
+## Education
 `Konkuk University` | `Smart Vehicle Engineering`
 
-### Experiences
+## Experiences
 - startup team MAIMURA - Frontend Developer
 - CA partners IT develop Internship - Backend Developer
 - GDSC(Google Developer Students club) Konkuk 1st core member - Server(Backend)
 - GDGOC(Google Developer Group On Campus) Konkuk 2nd member
 
-### Awards
+## Awards
 - Top 100 in Google Developer Students Club Solution Challenge
 - Grand Prize in jocoding Generative AI Hackathon
 
 ---
 
-### 🧪 Products
+## 🧪 Products
 > Real-world services in development or production.
 
 #### 📱 [2024.03 ~ ] Resona — Java & Kotlin SpringBoot Backend & Flutter App
@@ -64,7 +64,7 @@
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 > Side projects, hackathons, and collaborative works focused on learning, experimentation, and growth.
 
 #### 🧠 [2023.12 ~ 2024.02] GlowAlarm — Python FastAPI Backend & Flutter App
