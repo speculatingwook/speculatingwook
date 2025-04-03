@@ -88,7 +88,7 @@
 
 --------
 
-#### [2023.12 ~ 2023.02] GlowAlarm (Python FastAPI Backend & flutter App)
+#### [2023.12 ~ 2023.02] GlowAlarm (Python FastAPI Backend & flutter App) - Top 100 on Google Solution Challenge
 - [Team's intro video](https://www.youtube.com/watch?v=2ticysXQrvU)
 - [Team's github repository](https://github.com/sound-light)
 
@@ -96,8 +96,8 @@
 ## products
 
 #### [2024.03 ~] Resona (Java & Kotlin SpringBoot Backend & Flutter app)
-- Currently Developing
-- This repository is private
+> Currently Developing
+- [SNS - Resona API Server Repository](https://github.com/Team-SynApps/resona-api-server)
 
 -------
 
