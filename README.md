@@ -53,6 +53,8 @@
 - Top 100 in Google Developer Students Club Solution Challenge
 - Grand Prize in jocoding Generative AI Hackathon
 
+---
+
 ### 🧪 Products
 > Real-world services in development or production.
 
@@ -70,18 +72,15 @@
 - [Team's intro video](https://www.youtube.com/watch?v=2ticysXQrvU)
 - [GitHub Repository](https://github.com/sound-light)
 
----
 
 #### 🛠 [2023.06 ~ 2024.02] ReFit — Java SpringBoot Backend, FastAPI AI Server, Flutter App
 > AI-based fitness assistant built as a multi-service architecture
 - Repository is private
 
----
 
 #### 🌱 [2023.03 ~ 2023.05] EarthDefenseCorps — Java SpringBoot Backend
 - [GitHub Repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
 
----
 
 #### 🌱 [2023.01 ~ 2023.03] Greendar — Java SpringBoot Backend
 - [Intro Video](https://www.youtube.com/watch?v=aUiaK_zgogw)
