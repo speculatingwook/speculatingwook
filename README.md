@@ -39,6 +39,7 @@
 
 </div>
 
+<br/>
 
 ## Education
 `Konkuk University` | `Smart Vehicle Engineering`
@@ -54,6 +55,8 @@
 - Grand Prize in jocoding Generative AI Hackathon
 
 ---
+<br/>
+<br/>
 
 ## 🧪 Products
 > Real-world services in development or production.
@@ -64,6 +67,9 @@
 
 ---
 
+<br/>
+<br/>
+
 ## 🚀 Projects
 > Side projects, hackathons, and collaborative works focused on learning, experimentation, and growth.
 
@@ -72,15 +78,18 @@
 - [Team's intro video](https://www.youtube.com/watch?v=2ticysXQrvU)
 - [GitHub Repository](https://github.com/sound-light)
 
+<br/>
 
 #### 🛠 [2023.06 ~ 2024.02] ReFit — Java SpringBoot Backend, FastAPI AI Server, Flutter App
 > AI-based fitness assistant built as a multi-service architecture
 - Repository is private
 
+<br/>
 
 #### 🌱 [2023.03 ~ 2023.05] EarthDefenseCorps — Java SpringBoot Backend
 - [GitHub Repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
 
+<br/>
 
 #### 🌱 [2023.01 ~ 2023.03] Greendar — Java SpringBoot Backend
 - [Intro Video](https://www.youtube.com/watch?v=aUiaK_zgogw)
@@ -88,13 +97,13 @@
 
 
 ---
-
 #### 📦 [2022.08 ~ 2023.03] LiveWith_Team — Next.js CMS Frontend
 > Deprecated  
 ~~- CMS Page~~  
 ~~- Mymura App (Android / iOS)~~
 
 -------
+<br/>
 
 [![Dev Blog Badge](http://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white)](https://blog-full-of-desire-v3.vercel.app) [![Email Badge](http://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:bwook9908@gmail.com)
 
