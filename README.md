@@ -53,51 +53,47 @@
 - Top 100 in Google Developer Students Club Solution Challenge
 - Grand Prize in jocoding Generative AI Hackathon
 
-## Projects for study & fun
+### 🧪 Products
+> Real-world services in development or production.
 
-----------
-#### [2022.8 ~ 2023.03] LiveWith_Team (NextJs CMS Frontend)
-
-- depretecated
-
-~~- [Team's CMS page](https://cms.livewithtogether.com/authentication/login?returnUrl=%2F)~~
-
-~~- [Mymura App-Play Store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam)~~   
-
-~~- [Mymura App-App Store](https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109)~~
-
------------
-
-#### [2023.01 ~2023.03] Greendar (Java SpringBoot Backend)
-
-- [Team intro video](https://www.youtube.com/watch?v=aUiaK_zgogw)
-
-- [Team's github repository](https://github.com/Team-Greendar/GreendarServer)
-
------------
-
-#### [2023.03 ~2023.05] EarthDefenseCorps (Java SpringBoot Backend)
-
-- [Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
-
--------
-
-
-#### [2023.06 ~ 2024.02] ReFit (Java SpringBoot Backend & fastAPI AI & Flutter App)
-- This repository is private
-
---------
-
-#### [2023.12 ~ 2023.02] GlowAlarm (Python FastAPI Backend & flutter App) - Top 100 on Google Solution Challenge
-- [Team's intro video](https://www.youtube.com/watch?v=2ticysXQrvU)
-- [Team's github repository](https://github.com/sound-light)
-
----------
-## products
-
-#### [2024.03 ~] Resona (Java & Kotlin SpringBoot Backend & Flutter app)
-> Currently Developing
+#### 📱 [2024.03 ~ ] Resona — Java & Kotlin SpringBoot Backend & Flutter App
+> Ongoing long-term project with no fixed deadline, designed for continuous development and feature expansion.
 - [SNS - Resona API Server Repository](https://github.com/Team-SynApps/resona-api-server)
+
+---
+
+### 🚀 Projects
+> Side projects, hackathons, and collaborative works focused on learning, experimentation, and growth.
+
+#### 🧠 [2023.12 ~ 2024.02] GlowAlarm — Python FastAPI Backend & Flutter App
+> Top 100 in Google Solution Challenge
+- [Team's intro video](https://www.youtube.com/watch?v=2ticysXQrvU)
+- [GitHub Repository](https://github.com/sound-light)
+
+---
+
+#### 🛠 [2023.06 ~ 2024.02] ReFit — Java SpringBoot Backend, FastAPI AI Server, Flutter App
+> AI-based fitness assistant built as a multi-service architecture
+- Repository is private
+
+---
+
+#### 🌱 [2023.03 ~ 2023.05] EarthDefenseCorps — Java SpringBoot Backend
+- [GitHub Repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
+
+---
+
+#### 🌱 [2023.01 ~ 2023.03] Greendar — Java SpringBoot Backend
+- [Intro Video](https://www.youtube.com/watch?v=aUiaK_zgogw)
+- [GitHub Repository](https://github.com/Team-Greendar/GreendarServer)
+
+
+---
+
+#### 📦 [2022.08 ~ 2023.03] LiveWith_Team — Next.js CMS Frontend
+> Deprecated  
+~~- CMS Page~~  
+~~- Mymura App (Android / iOS)~~
 
 -------
 
