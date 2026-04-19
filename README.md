@@ -6,6 +6,7 @@
 
 ![Wook's GitHub stats](https://github-readme-stats.vercel.app/api?username=speculatingwook&show_icons=true&theme=vue-dark)
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/speculatingwook/svg?compact=1)](https://tokscale.ai/u/speculatingwook)
 </div>
 
 
