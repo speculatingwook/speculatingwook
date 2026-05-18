@@ -4,8 +4,6 @@
 
 <div align="center">
 
-![Wook's GitHub stats](https://github-readme-stats.vercel.app/api?username=speculatingwook&show_icons=true&theme=vue-dark)
-
 [![Tokscale Stats](https://tokscale.ai/api/embed/speculatingwook/svg?compact=1)](https://tokscale.ai/u/speculatingwook)
 </div>
 
@@ -33,11 +31,6 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,githubactions)](https://skillicons.dev)<br>
 
 
-
-
-#### Version Control
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)<br>
-
 </div>
 
 <br/>
@@ -57,18 +50,15 @@
 
 <br/>
 
-## 🧪 Products
-> Real-world services in development or production.
-
-#### 📱 [2024.03 ~ ] Resona — Java & Kotlin SpringBoot Backend & Flutter App
-> Ongoing long-term project with no fixed deadline, designed for continuous development and feature expansion.
-- [SNS - Resona API Server Repository](https://github.com/Team-SynApps/resona-api-server)
-
-
-<br/>
-
 ## 🚀 Projects
 > Side projects, hackathons, and collaborative works focused on learning, experimentation, and growth.
+
+#### 🧭 [2026.03 ~ ] Funnel — React 19 & Vite Frontend, FastAPI Backend, PostgreSQL + pgvector
+> Local-first study workspace that turns PDFs and technical concepts into a shared wiki with grounded evidence and re-entry flows.
+[![Funnel Tech Stack](https://skillicons.dev/icons?i=react,py,fastapi,postgres,docker,cloudflare)](https://skillicons.dev)<br>
+- [GitHub Repository](https://github.com/speculatgingwook/funnel)
+
+<br/>
 
 #### 🧠 [2023.12 ~ 2024.02] GlowAlarm — Python FastAPI Backend & Flutter App
 > Top 100 in Google Solution Challenge
@@ -93,7 +83,17 @@
 - [GitHub Repository](https://github.com/Team-Greendar/GreendarServer)
 
 
----
+<br/>
+
+## 🗃 Deprecated
+> Archived, discontinued, or inactive services.
+
+#### 📱 [2024.03 ~ 2026.05] Resona — Java & Kotlin SpringBoot Backend & Flutter App
+> Deprecated
+- [SNS - Resona API Server Repository](https://github.com/Team-SynApps/resona-api-server)
+
+<br/>
+
 #### 📦 [2022.08 ~ 2023.03] LiveWith_Team — Next.js CMS Frontend
 > Deprecated  
 ~~- CMS Page~~  
@@ -106,4 +106,3 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=200&section=footer)
 </box>
-
