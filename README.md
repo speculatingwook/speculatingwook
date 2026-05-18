@@ -15,7 +15,7 @@
 ## 🛠 Tech Stack 🛠
 
 #### Frameworks,Platforms
-[![My Skills](https://skillicons.dev/icons?i=spring,nextjs)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=spring,nextjs,react,fastapi)](https://skillicons.dev)<br>
 
 
 
@@ -24,11 +24,11 @@
 
 
 #### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)<br>
 
 
 #### Infra
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,githubactions)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,cloudflare)](https://skillicons.dev)<br>
 
 
 </div>
@@ -55,7 +55,6 @@
 
 #### 🧭 [2026.03 ~ ] Funnel — React 19 & Vite Frontend, FastAPI Backend, PostgreSQL + pgvector
 > Local-first study workspace that turns PDFs and technical concepts into a shared wiki with grounded evidence and re-entry flows.
-[![Funnel Tech Stack](https://skillicons.dev/icons?i=react,py,fastapi,postgres,docker,cloudflare)](https://skillicons.dev)<br>
 - [GitHub Repository](https://github.com/speculatgingwook/funnel)
 
 <br/>
@@ -88,7 +87,7 @@
 ## 🗃 Deprecated
 > Archived, discontinued, or inactive services.
 
-#### 📱 [2024.03 ~ 2026.05] Resona — Java & Kotlin SpringBoot Backend & Flutter App
+#### 📱 [2024.03 ~ 2026.03] Resona — Java & Kotlin SpringBoot Backend & Flutter App
 > Deprecated
 - [SNS - Resona API Server Repository](https://github.com/Team-SynApps/resona-api-server)
 
